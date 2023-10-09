@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.28eed9ea.css",
-    "main.js": "/static/js/main.a8cff930.js",
+    "main.js": "/static/js/main.3de2df13.js",
     "static/js/787.60266217.chunk.js": "/static/js/787.60266217.chunk.js",
     "static/media/woodencrafts.png": "/static/media/woodencrafts.6eab5f8d13693ab3897c.png",
-    "static/media/Ganesh_Kumar_Resume.pdf": "/static/media/Ganesh_Kumar_Resume.22e1225aeaf6f6eb4f99.pdf",
     "static/media/fashntra.png": "/static/media/fashntra.1d9d59a708bfa961083d.png",
     "static/media/kidsland.png": "/static/media/kidsland.19f775f2d3ca4923103f.png",
     "static/media/fitQuest.png": "/static/media/fitQuest.4fb58b85022b67f0586f.png",
     "static/media/ProfilePicture.JPG": "/static/media/ProfilePicture.76d1992fcedea53ac0b0.JPG",
+    "static/media/Shriya-Pandey-Resume.pdf": "/static/media/Shriya-Pandey-Resume.43970649523275f6260a.pdf",
     "static/media/express.svg": "/static/media/express.d39bd255a1e339b18192aa5c1989e6f8.svg",
     "index.html": "/index.html",
     "static/media/chakraui.svg": "/static/media/chakraui.cf8ffbe8542d7bf1c439768c5c39b27e.svg",
     "main.28eed9ea.css.map": "/static/css/main.28eed9ea.css.map",
-    "main.a8cff930.js.map": "/static/js/main.a8cff930.js.map",
+    "main.3de2df13.js.map": "/static/js/main.3de2df13.js.map",
     "787.60266217.chunk.js.map": "/static/js/787.60266217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28eed9ea.css",
-    "static/js/main.a8cff930.js"
+    "static/js/main.3de2df13.js"
   ]
 }
