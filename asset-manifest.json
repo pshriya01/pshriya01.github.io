@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0bfb814c.css",
-    "main.js": "/static/js/main.2a6c3df6.js",
+    "main.js": "/static/js/main.04bd6c09.js",
     "static/js/787.60266217.chunk.js": "/static/js/787.60266217.chunk.js",
     "static/media/woodencrafts.png": "/static/media/woodencrafts.6eab5f8d13693ab3897c.png",
     "static/media/Shriya-Pandey-Resume.pdf": "/static/media/Shriya-Pandey-Resume.520140dc889c8512a8ce.pdf",
@@ -13,11 +13,11 @@
     "index.html": "/index.html",
     "static/media/chakraui.svg": "/static/media/chakraui.cf8ffbe8542d7bf1c439768c5c39b27e.svg",
     "main.0bfb814c.css.map": "/static/css/main.0bfb814c.css.map",
-    "main.2a6c3df6.js.map": "/static/js/main.2a6c3df6.js.map",
+    "main.04bd6c09.js.map": "/static/js/main.04bd6c09.js.map",
     "787.60266217.chunk.js.map": "/static/js/787.60266217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bfb814c.css",
-    "static/js/main.2a6c3df6.js"
+    "static/js/main.04bd6c09.js"
   ]
 }
