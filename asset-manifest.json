@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33a483ab.css",
-    "main.js": "/static/js/main.5cfedf60.js",
+    "main.js": "/static/js/main.b332b3ef.js",
     "static/js/787.feae3626.chunk.js": "/static/js/787.feae3626.chunk.js",
     "static/media/woodencrafts.png": "/static/media/woodencrafts.6eab5f8d13693ab3897c.png",
     "static/media/fashntra.png": "/static/media/fashntra.1d9d59a708bfa961083d.png",
@@ -11,11 +11,11 @@
     "static/media/Shriya-Pandey-Resume.pdf": "/static/media/Shriya-Pandey-Resume.222be3c2aa8ebd9bb0d6.pdf",
     "index.html": "/index.html",
     "main.33a483ab.css.map": "/static/css/main.33a483ab.css.map",
-    "main.5cfedf60.js.map": "/static/js/main.5cfedf60.js.map",
+    "main.b332b3ef.js.map": "/static/js/main.b332b3ef.js.map",
     "787.feae3626.chunk.js.map": "/static/js/787.feae3626.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33a483ab.css",
-    "static/js/main.5cfedf60.js"
+    "static/js/main.b332b3ef.js"
   ]
 }
